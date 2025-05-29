@@ -1,0 +1,12 @@
+{
+	"editor.tabSize": 4, 
+	"editor.wordWrap": "on", 
+	"editor.folding": false, 
+	"editor.insertSpaces": false, 
+	"editor.smoothScrolling": true, 
+	"editor.detectIndentation": true, 
+	"editor.suggestSelection": "first", 
+	"editor.fontSize": 14, 
+	"editor.fontLigatures": true, 
+	"editor.fontFamily": "JetBrains Mono"
+}
